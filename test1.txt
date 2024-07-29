@@ -6,3 +6,4 @@ f have completed M.Sc. in CSE.
 I have started my full stack software  development job at 2025. 
 I will join at MFile 1st of November.
 Logo alignment is centered.
+Text align is centered.
