@@ -8,3 +8,4 @@ I will join at MFile 1st of November.
 Logo alignment is centered.
 Text align is centered.
 New line is added in feature branch
+
